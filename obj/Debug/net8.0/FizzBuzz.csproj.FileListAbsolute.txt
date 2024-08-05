@@ -1,0 +1,14 @@
+c:\Users\AnuRia\Documents\Training\FizzBuzz\bin\Debug\net8.0\FizzBuzz.exe
+c:\Users\AnuRia\Documents\Training\FizzBuzz\bin\Debug\net8.0\FizzBuzz.deps.json
+c:\Users\AnuRia\Documents\Training\FizzBuzz\bin\Debug\net8.0\FizzBuzz.runtimeconfig.json
+c:\Users\AnuRia\Documents\Training\FizzBuzz\bin\Debug\net8.0\FizzBuzz.dll
+c:\Users\AnuRia\Documents\Training\FizzBuzz\bin\Debug\net8.0\FizzBuzz.pdb
+c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfoInputs.cache
+c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfo.cs
+c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.CoreCompileInputs.cache
+c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\FizzBuzz.dll
+c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
+c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
+c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
+c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
