@@ -12,3 +12,4 @@ c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
 c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
 c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
 c:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
+C:\Users\AnuRia\Documents\Training\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json

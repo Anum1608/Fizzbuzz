@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\AnuRia\\Documents\\Training\\FizzBuzz\\FizzBuzz.csproj": {}
+    "C:\\Users\\AnuRia\\Documents\\Training\\FizzBuzz\\FizzBuzz.csproj": {}
   },
   "projects": {
-    "c:\\Users\\AnuRia\\Documents\\Training\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\AnuRia\\Documents\\Training\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AnuRia\\Documents\\Training\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\AnuRia\\Documents\\Training\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "c:\\Users\\AnuRia\\Documents\\Training\\FizzBuzz\\FizzBuzz.csproj",
+        "projectPath": "C:\\Users\\AnuRia\\Documents\\Training\\FizzBuzz\\FizzBuzz.csproj",
         "packagesPath": "C:\\Users\\AnuRia\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AnuRia\\Documents\\Training\\FizzBuzz\\obj\\",
+        "outputPath": "C:\\Users\\AnuRia\\Documents\\Training\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AnuRia\\AppData\\Roaming\\NuGet\\NuGet.Config"
