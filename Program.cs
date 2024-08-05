@@ -1,8 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Enter the maximum number to print:");
+string maxNumber = Console.ReadLine();
 
-Console.WriteLine("print from 1 to 100");
-for (int i = 1; i <= 100; i = i + 1) 
+int maxNumberInt = Convert.ToInt32(maxNumber);
+
+Console.WriteLine($"printing from 1 to {maxNumber}");
+for (int i = 1; i <= maxNumberInt; i = i + 1) 
 {
    if (i % 3 == 0 && i % 5 == 0){
         Console.WriteLine("FizzBuzz");
