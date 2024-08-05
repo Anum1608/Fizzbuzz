@@ -4,10 +4,13 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("print from 1 to 100");
 for (int i = 1; i <= 100; i = i + 1) 
 {
-  Console.Write(i + " ");
-   if (i % 3 == 0){
+   if (i % 3 == 0 && i % 5 == 0){
+        Console.WriteLine("FizzBuzz");
+   }else if(i % 5 == 0){
+        Console.WriteLine("Buzz");
+   }else if (i % 3 == 0){
         Console.WriteLine("Fizz");
    } else{
-        Console.WriteLine("");
+        Console.WriteLine(i);
    }
 }
